@@ -1,3 +1,4 @@
+![logo](https://github.com/rohjha2014/rohjha2014/blob/main/107419750-wephoto.jpg)
 <h1 align="center">Hi 👋, I'm Rohit jha</h1>
 <h3 align="center">A passionate of MERN Stack developer from India</h3>
 
